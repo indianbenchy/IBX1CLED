@@ -15,6 +15,8 @@ Use a RGBCCT light strip
 - The light can be turned on and off with printer light option
 - The light will be turned off when Lidar is on so that it doesn't interfare.
 
+steps: https://www.youtube.com/watch?v=pxX9PVCgJrY&t=5s
+
 License
 This is a modified code with license applied by its original owner under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 

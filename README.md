@@ -39,3 +39,4 @@ No additional restrictions: You may not apply legal terms or technological measu
 For the full text of the CC BY-NC-SA 4.0 license, please visit: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 This License is based on the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The terms of that license apply to the extent they do not conflict with the terms of this License.
+Lisence: https://github.com/DutchDevelop/BambulabLedController/blob/main/LICENSE
